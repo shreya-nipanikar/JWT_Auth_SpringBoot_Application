@@ -1,8 +1,8 @@
-# Spring Boot Security + JWT + RestAPI CRUD + JUNIT + MOCKITO
+# Spring Boot Security + JWT + RestAPI + Mysql CRUD + JUNIT + MOCKITO Example
 
-This project demontrates how to use JWT Token based Authentication. In this example we will save user authentication related data in database. The UserController has methods to get all users, create user, update user, get user by id,get user by email, search user by username and delete user. Basically, we have created rest api using DAO layer. 
+This project demonstrates the use of JWT Token-based Authentication. In this example, we will preserve data related to user authentication in a database. The UserController includes methods for getting all users, creating users, updating users, getting users by id, getting users by email, searching for users by username, and deleting users. Essentially, we constructed a rest API utilizing the DAO layer. 
 
-In this example you will also find test cases for Service layer and Controller layer. We have used Junit and Mockito for testing. Test cases to access private and public API's are also written.
+This sample also includes test cases for the Service and Controller layers. For testing, we utilized Junit and Mockito. There are test cases written in Controller layer for accessing private and public APIs.
 
 Find the software used in the example.
 1. Java 17
