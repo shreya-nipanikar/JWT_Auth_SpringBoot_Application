@@ -36,4 +36,8 @@ Here are few Snips of working application:
 4. Get Single Users
 ![Get_Single_User](https://github.com/shreya-nipanikar/JWT_Auth_SpringBoot_Application/assets/57978423/d04d546e-df57-4b97-b474-e1244950c568)
 
+5. Update User
+![Update_User](https://github.com/shreya-nipanikar/JWT_Auth_SpringBoot_Application/assets/57978423/a2322820-7aca-4992-b84b-ceb1e1cd2abb)
+
+
  
