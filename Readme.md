@@ -30,9 +30,10 @@ Here are few Snips of working application:
 2. Create User
 ![Create_User](https://github.com/shreya-nipanikar/JWT_Auth_SpringBoot_Application/assets/57978423/1b245c28-e59e-40fa-8d77-72475127dea5)
 
-3. Get All Users
-![Create_User](https://github.com/shreya-nipanikar/JWT_Auth_SpringBoot_Application/assets/57978423/c2187e53-0d14-4ffb-9945-a4322052eeea)
-
-4. Get Single User
+3. Get All User
 ![Get_All_Users](https://github.com/shreya-nipanikar/JWT_Auth_SpringBoot_Application/assets/57978423/74c59e3c-b802-46a7-841a-bffecafc68b5)
+
+4. Get Single Users
+![Get_Single_User](https://github.com/shreya-nipanikar/JWT_Auth_SpringBoot_Application/assets/57978423/d04d546e-df57-4b97-b474-e1244950c568)
+
  
