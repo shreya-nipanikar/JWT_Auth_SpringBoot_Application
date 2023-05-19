@@ -6,9 +6,8 @@ The project is built using Spring Boot, a popular Java framework for creating we
 
 The authentication data, such as user credentials and roles, is stored in a MySQL database. Spring Data JPA is used to interact with the database. It provides a convenient way to implement the Data Access Object (DAO) layer by extending the JpaRepository interface. This allows for easy implementation of common database operations such as creating, reading, updating, and deleting user entities.
 
-To transfer data between the controller layer and service layer, Data Transfer Objects (DTOs) are used. UserDTO and RoleDTO are defined in the DTO module. These DTOs encapsulate the necessary data for the respective operations and help maintain a separation of concerns between layers.
-
-The UserController class contains various methods for user management. It exposes RESTful endpoints for operations such as retrieving all users, creating new users, updating existing users, and deleting users. Additionally, it provides methods for retrieving users by their ID, email, or username. These methods are responsible for handling incoming requests, invoking the appropriate services, and returning the corresponding responses.
+To transfer data between the controller layer and service layer, Data Transfer Objects (DTOs) are used. UserDTO and RoleDTO are defined in the DTO module. 
+The UserController class contains various endpoints. It exposes RESTful endpoints for operations such as retrieving all users, creating new users, updating existing users, and deleting user. Additionally, it provides methods for retrieving users by their ID, email, or username. These methods are responsible for handling incoming requests, invoking the appropriate services, and returning the corresponding responses.
 
 The project includes a configuration folder and a security folder that contain code snippets related to Spring Security configuration. The configuration files override default Spring Security methods to enable JWT token authentication. These snippets define how the authentication process is handled, including the generation and validation of JWT tokens.
 
