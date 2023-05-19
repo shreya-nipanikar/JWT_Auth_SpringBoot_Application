@@ -14,7 +14,7 @@ The project includes a configuration folder and a security folder that contain c
 
 Test cases for the Service and Controller layers are included using JUnit and Mockito frameworks. These test cases ensure the correctness of the implemented features and validate the behavior of the API endpoints. The Controller layer test cases cover both public and private APIs, simulating various scenarios and asserting the expected outcomes.
 
-In summary, this project utilizes Spring Boot, Spring Security, and Spring Data JPA to implement a RESTful API with JWT Token-based Authentication. It uses a MySQL database for storing user authentication data and employs DTOs for data transfer between layers. Test cases are written using JUnit and Mockito to verify the functionality of the Service and Controller layers.
+In summary, this project utilizes Spring Boot, Spring Security, and Spring Data JPA to implement a RESTful API with JWT Token-based Authentication. 
 
 Find the software used in the example.
 1. Java 17
